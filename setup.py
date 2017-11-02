@@ -8,7 +8,7 @@ setup(
   author = 'Caleb Ng',
   author_email = 'cng@osensa.com',
   url = 'https://github.com/cng-osensa/HelloPy/', # use the URL to the github repo
-  download_url = 'https://github.com/peterldowns/mypackage/archive/0.1.tar.gz', # I'll explain this in a second
+  download_url = 'https://github.com/cng-osensa/HelloPy/archive/0.1.tar.gz', # Github tarball download 
   keywords = ['testing', 'logging', 'example'], # arbitrary keywords
   classifiers = [],
 )
