@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-  name = 'testpackage',
-  packages = ['testpackage'], # this must be the same as the name above
+  name = 'osensa-testpackage',
+  packages = ['osensa-testpackage'], # this must be the same as the name above
   version = '0.1',
   description = 'A random test lib',
   author = 'Caleb Ng',
@@ -11,4 +11,5 @@ setup(
   download_url = 'https://github.com/cng-osensa/HelloPy/archive/0.1.tar.gz', # Github tarball download 
   keywords = ['testing', 'logging', 'example'], # arbitrary keywords
   classifiers = [],
+  license='MIT',
 )
