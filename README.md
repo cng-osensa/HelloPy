@@ -1,4 +1,3 @@
-HelloPy
-=====
+#HelloPy
 
 Sample python project structure
